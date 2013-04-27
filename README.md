@@ -1,2 +1,4 @@
-LudumDare#26 by Baptême de Jeu
+LudumDare#26 by Bapteme de Jeu
 =========================
+
+Agamgad + Jailby
